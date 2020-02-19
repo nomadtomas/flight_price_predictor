@@ -1,6 +1,6 @@
 # Flight Price Predictor
 <p align="center">
-  <img src="images/pricehist.png">
+  <img src="images/kayakpredict.png">
 </p>  
 
 ## Table of Contents
