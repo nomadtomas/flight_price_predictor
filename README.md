@@ -1,15 +1,15 @@
-# flight_price_predictor
+# Flight Price Predictor
 
 ## Table of Contents
 
-* [What are you trying to do?](#what-are-you-trying-to-do?)
-* [How has this problem been solved before?](#how-has-this-problem-been-solved-before?)
-* [What is new about your approach?](#what-is-new-about-your-approach,-why-do-you-think-it-will-be-successful?)
-* [Who cares?](#who-cares?-if-you're-successful,-what-will-the-impact-be?)
-* [How will you present your work?](#how-will-you-present-your-work?)
-* [What are your data sources?](#what-are-your-data-sources?-what-is-the-size-of-your-dataset,-and-what-is-your-storage-format?)
-* [What are potential problems with your capstone?](#what-are-potential-problems-with-your-capstone?)
-* [What is the next thing you need to work on?](#what-is-the-next-thing-you-need-to-work-on?)
+* [What are you trying to do?](#what-are-you-trying-to-do)
+* [How has this problem been solved before?](#how-has-this-problem-been-solved-before)
+* [What is new about your approach?](#what-is-new-about-your-approach,-why-do-you-think-it-will-be-successful)
+* [Who cares?](#who-cares?-if-you're-successful,-what-will-the-impact-be)
+* [How will you present your work?](#how-will-you-present-your-work)
+* [What are your data sources?](#what-are-your-data-sources?-what-is-the-size-of-your-dataset,-and-what-is-your-storage-format)
+* [What are potential problems with your capstone?](#what-are-potential-problems-with-your-capstone)
+* [What is the next thing you need to work on?](#what-is-the-next-thing-you-need-to-work-on)
 
 ### What are you trying to do?
 There are a lot of myths, suggestions, apps, and recommendations regarding when is the “best time” to purchase an airline ticket.  Ultimate, the best time to buy any airline ticket is when you need it, period.  However, we all like to save money and feel empowered by informed decisions.  My project aims to provide that empowerment.  I will create an airline prediction machine learning model for predicting domestic flight prices.  There are currently several websites that have incorporated a prediction to go along with the price of flights.  The main ones have been Kayak, Hopper, and Googleflights. Ultimately, I will use those app to measure the performance of my model.  The real-world impact my model could have, would be to test the accuracy of current models on the market, and test if the airline algorithms have begun to fluctuate to a degree that have rendered current models less accurate. Along with that, I would like to put some of the airline myths to the test and see if any data supports their claims.  For example, the myth that Tuesday is the cheapest day of the week to purchase tickets, or that the earlier you book tickets the more money you safe.   
